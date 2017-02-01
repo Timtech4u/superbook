@@ -69,7 +69,6 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.auth.middleware.SessionAuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'my.middleware.AtopdedTo110DebugMiddleware',
     'debug_toolbar.middleware.DebugToolbarMiddleware',
 )
 
